@@ -1,0 +1,1 @@
+{\n  "name": "mastra-project",\n  "version": "1.0.0",\n  "description": "A Mastra project",\n  "dependencies": {\n    // Add mastra dependencies here\n  },\n  "scripts": {\n    "start": "ts-node src/index.ts",\n    "build": "tsc"\n  }\n}
